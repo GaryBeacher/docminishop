@@ -1,2 +1,2 @@
-# hbj-minishop
+# minishop
 github基础文件
